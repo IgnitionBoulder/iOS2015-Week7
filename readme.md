@@ -44,6 +44,7 @@ Use NSCoding to serialize custom objects or object graphs.
 #### Resources
 - [Archives and Serializations Programming Guide](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/Archiving/Archiving.html#//apple_ref/doc/uid/10000047i)
 - [NSHipster - NSCoding](http://nshipster.com/nscoding/)
+- [NSCoding example](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson10.html)
 
 ### Section 4: Core Data
 Use Core Data when you need full database functionality, including queries and partial loading of your data set.
